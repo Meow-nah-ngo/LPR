@@ -75,3 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE DATASETS](http
 - YoloV8 for vehicle detection in videos.
 - OpenCV for image processing.
 - Thanks to the contributors and open-source community.
+
+## Manual
+[โครงงาน นวัตกรรมอิเล็กทรอนิกส์อัจฉริยะ และ IOT final](https://drive.google.com/file/d/1ejc72Lrex97TD1GRQhnJGB0QtPqFC12G/view?usp=drive_link)
